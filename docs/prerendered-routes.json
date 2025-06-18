@@ -1,0 +1,16 @@
+{
+  "routes": [
+    "/admin",
+    "/admin/admin",
+    "/admin/dashboard",
+    "/admin/users",
+    "/changepassword",
+    "/detect",
+    "/firsthome",
+    "/forget",
+    "/generate",
+    "/login",
+    "/signup",
+    "/verify"
+  ]
+}
